@@ -196,7 +196,7 @@ Blanja is a comprehensive e-commerce platform designed to connect customers with
 Blanja provides an efficient and enjoyable shopping experience for customers and a comprehensive suite of tools for sellers. Whether you're looking to buy a product or sell your goods online, Blanja is designed to meet your e-commerce needs.
 
 ## Related Project
-:rocket: [`Backend Blanja`](https://github.com/echestratus/BlanjaWebsiteProject/tree/feature/back-end)
+:rocket: [`Backend Blanja`](https://github.com/nizuma666/Blanja-MarketPlace/tree/feature/back-end)
 
 ## License
 
