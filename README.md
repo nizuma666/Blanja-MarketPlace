@@ -5,7 +5,7 @@
   <h1>Blanja</h1>
     <a href="https://blanja-website-project.netlify.app/">View Demo</a>
     .
-    <a href="https://github.com/nizuma666/BlanjaWebsiteProject/tree/feature/back-end">Api Demo</a>
+    <a href="https://github.com/nizuma666/Blanja-MarketPlace/tree/feature/back-end">Api Demo</a>
 </div>
 
   ## Table of Contents
