@@ -13,7 +13,7 @@
     <br />
     <a href="https://be-blanja-marketplace-app-develop.up.railway.app/" target="_blank">View Back-End Demo</a>
     ·
-    <a href="https://blanja-website-project.netlify.app/" target="_blank">View Front-End Demo</a>
+    <a href="https://blanja-website-project.netlify.app/" target="_blank">View Demo</a>
     ·
     <a href="https://github.com/nizuma666/Blanja-MarketPlace/tree/feature/front-end" target="_blank">View Front-End Repo</a>
   </p>
